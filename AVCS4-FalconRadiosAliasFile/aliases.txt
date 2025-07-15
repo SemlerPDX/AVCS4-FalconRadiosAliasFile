@@ -1,0 +1,16 @@
+WeaponsFreeAA=WeaponsFreeAA;WeaponsFree;AirWeaponsFree;WeaponsFreeAir
+WeaponsFreeAG=WeaponsFreeAG;GroundWeaponsFree;WeaponsFreeGround
+4ShipThreeintheslot=4ShipThreeInTheSlot;FourShipThreeInTheSlot
+4ShipFourintheslot=4ShipFourInTheSlot;FourShipFourInTheSlot
+TurnSmokeOn=TurnSmokeOn;SmokeOn
+TurnSmokeOff=TurnSmokeOff;SmokeOff
+FenceInLightsOff=FenceInLightsOff;FenceIn;LightsOff
+FenceOutLightsOn=FenceOutLightsOn;FenceOut;LightsOn
+IPInboundReAttack=IPInbound;ReAttack
+PoPupAttack=PopUpAttack
+SayFuelState=SayFuelState;SayFuel
+Tower_DeclareEmergency=DeclareEmergency;TowerDeclareEmergency
+Tower_Abort=Abort;TowerAbort
+Ground_SayAgain=SayAgain;GroundSayAgain
+JTAC_CheckOut=JTACCheckOut;JayTackCheckOut
+JTAC_SayAgain=JTACSayAgain;JayTackSayAgain

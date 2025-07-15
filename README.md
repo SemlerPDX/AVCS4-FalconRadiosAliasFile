@@ -13,9 +13,9 @@ The AVCS4 BMS Automatic Command Generator which reads the user's chosen Falcon B
 #### WINGMAN, ELEMENT, FLIGHT
 
 **NOTE:**
-For any non-flight agency, the format for an alias key is the page + "_" + command
-The "page" text should be exactly as written in the Menu.dat file for that section of items, including spaces and/or symbols.
-The "command" text should have no spaces between words, and remain in the casing it is shown as in the Menu.dat file.
+For any non-flight agency, the format for an alias key is the page + "_" + command  
+The "page" text should be exactly as written in the Menu.dat file for that section of items, including spaces and/or symbols.  
+The "command" text should have no spaces between words, and remain in the casing it is shown as in the Menu.dat file.  
 
 ## ALIAS RULES AND STANDARDS:
 - A reasonable number of aliases should be used for any given command, so as to not exceed visible (and mental) ability to review the base ways a command can be called.
@@ -28,7 +28,7 @@ The "command" text should have no spaces between words, and remain in the casing
 
 
 ## HOW YOU CAN HELP:
-Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes/additions using the GitHub systems, and it will notify me - I can approve of, discuss, or disregard suggestions depending on how they fit in to my goals, and my rules/standards for this aliases file.  I doubt I would ever not respond if a discussion was needed, and I'll likely explain why if I intend to disregard a suggestion including reasons why it might not fit within my goals for this file.
-
+Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes/additions using the GitHub systems, and it will notify me - I can approve of, discuss, or disregard suggestions depending on how they fit in to my goals, and my rules/standards for this aliases file.  I doubt I would ever not respond if a discussion was needed, and I'll likely explain why if I intend to disregard a suggestion including reasons why it might not fit within my goals for this file.  
+  
 So, if you think something obvious should be a master alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
 

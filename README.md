@@ -1,4 +1,4 @@
-# AVCS4-FalconRadiosAliasFile
+# AVCS4 Falcon Radios Alias File (Util App)
 
 This is just a small app I use to convert the aliases file used by my AVCS4 BMS profile for VoiceAttack to or from JSON to flat text.
 

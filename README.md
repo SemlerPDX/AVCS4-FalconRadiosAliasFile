@@ -35,5 +35,5 @@ The "command" text should have no spaces between words, and remain in the casing
 #### ALIASES FILE:  https://github.com/SemlerPDX/AVCS4-FalconRadiosAliasFile/blob/master/AVCS4-FalconRadiosAliasFile/aliases.json
 Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes/additions using the GitHub systems or make a discussion thread, and it will notify me - I can approve of, discuss, or disregard suggestions depending on how they fit into my goals, and my rules/standards for this aliases file.  I doubt I would ever not respond if a discussion was needed, and I'll likely explain why if I intend to disregard a suggestion including reasons why it might not fit within my goals for this file.  
   
-So, if you think something obvious should be a master alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
+So, if you think something obvious should be a global alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
 

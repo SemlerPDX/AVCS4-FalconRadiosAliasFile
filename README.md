@@ -37,3 +37,6 @@ Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes
   
 So, if you think something obvious should be a global alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
 
+## LICENSE NOTES:
+This file and project is licensed under the GNU AGPL v3. See attached license for complete details.
+You are free to use, modify, and serve it, but any modified version served to others (such as through a shared endpoint) must also make its source available under the same license.

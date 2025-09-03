@@ -47,6 +47,14 @@
     "SayFuelState",
     "SayFuel"
   ],
+  "InstallRemoveEpuGroundSafetyPin": [
+    "InstallEpuGroundSafetyPin",
+    "RemoveEpuGroundSafetyPin"
+  ],
+  "InstallRemoveChocks": [
+    "InstallChocks",
+    "RemoveChocks"
+  ],
   "Tower_DeclareEmergency": [
     "DeclareEmergency",
     "TowerDeclareEmergency"

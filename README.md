@@ -1,4 +1,4 @@
-# AVCS4-FalconRadiosAliasFile
+# AVCS4 Falcon Radios Alias File (Util App)
 
 This is just a small app I use to convert the aliases file used by my AVCS4 BMS profile for VoiceAttack to or from JSON to flat text.
 
@@ -33,7 +33,10 @@ The "command" text should have no spaces between words, and remain in the casing
   
 ## HOW YOU CAN HELP:
 #### ALIASES FILE:  https://github.com/SemlerPDX/AVCS4-FalconRadiosAliasFile/blob/master/AVCS4-FalconRadiosAliasFile/aliases.json
-Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes/additions using the GitHub systems, and it will notify me - I can approve of, discuss, or disregard suggestions depending on how they fit in to my goals, and my rules/standards for this aliases file.  I doubt I would ever not respond if a discussion was needed, and I'll likely explain why if I intend to disregard a suggestion including reasons why it might not fit within my goals for this file.  
+Navigate to the aliases.json file in this GitHub Repo, and suggest edits/changes/additions using the GitHub systems or make a discussion thread, and it will notify me - I can approve of, discuss, or disregard suggestions depending on how they fit into my goals, and my rules/standards for this aliases file.  I doubt I would ever not respond if a discussion was needed, and I'll likely explain why if I intend to disregard a suggestion including reasons why it might not fit within my goals for this file.  
   
-So, if you think something obvious should be a master alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
+So, if you think something obvious should be a global alias for all users, just use this repo to suggest an edit to the aliases.json file and I will take it under consideration.
 
+## LICENSE NOTES:
+This file and project is licensed under the GNU AGPL v3. See attached license for complete details.
+You are free to use, modify, and serve it, but any modified version served to others (such as through a shared endpoint) must also make its source available under the same license.
